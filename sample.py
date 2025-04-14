@@ -2,7 +2,8 @@ a=2
 b=7
 c=56
 d=200
-sum=a+b+c
+e=210
+sum=a+b+c/e
 sub=c-d
 div=d%a
 print(sum)
