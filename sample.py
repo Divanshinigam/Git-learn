@@ -1,4 +1,5 @@
 a=2
 b=7
-sum=a+b
+c=56
+sum=a+b+c
 print(sum)
